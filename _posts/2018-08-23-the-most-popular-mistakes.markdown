@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The most popular mistakes
-date:   2018-08-23 16:05:55 +0300
+date:   2022-05-01 22:59:55 +0300
 image:  40.jpg
 tags:   [Lifehacks]
 ---
