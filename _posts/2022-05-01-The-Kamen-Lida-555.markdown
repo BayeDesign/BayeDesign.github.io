@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Kamen Lida 555
-date:   2022-05-1 22:52:00 +0300
+date:   2022-05-1 22:52:00 
 image:  40.jpg
 tags:   [Kamen-Lida]
 ---
